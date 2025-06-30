@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "14d248802a5c355c",
+    "id": "b64cee3f9bef32f1",
     "type": "split",
     "children": [
       {
-        "id": "7cefd0dff71c76b2",
+        "id": "2daac3556d481e39",
         "type": "tabs",
         "children": [
           {
-            "id": "c7cfbf98b11f92fc",
+            "id": "ed8a6c0d70eeaa56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security_Courses/Portswigger/README.md",
-                "mode": "preview",
+                "file": "Security_Courses/Portswigger/Notes/SQLi/SQLi.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "SQLi"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6da4ba6166de61e6",
+    "id": "01442d7692890d88",
     "type": "split",
     "children": [
       {
-        "id": "330b9778a2b8de1d",
+        "id": "22aeb1d676944ed4",
         "type": "tabs",
         "children": [
           {
-            "id": "8c63a22b91d7b862",
+            "id": "b3af8705a73f90ae",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "12a83731cc0b0fde",
+            "id": "a486ecf948545149",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "b552b8f4dffc9b0b",
+            "id": "bd4d936be693a631",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "e62d813e18d8ee32",
+    "id": "fd819e3cfdf53594",
     "type": "split",
     "children": [
       {
-        "id": "e38223df7efbac44",
+        "id": "d25a7004847670a5",
         "type": "tabs",
         "children": [
           {
-            "id": "65301d08a28cfe02",
+            "id": "bd55d226b97d7f10",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "b552b495a35e5ec6",
+            "id": "84e18874e1ddfcfc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "958479298c5672cc",
+            "id": "48469535760ccb19",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,26 +137,25 @@
             }
           },
           {
-            "id": "c30f2e5081688e32",
+            "id": "ee2a01e09fd1b450",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Table of Contents.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Table of Contents"
+              "title": "Outline of Welcome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -169,30 +170,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7cfbf98b11f92fc",
+  "active": "b3af8705a73f90ae",
   "lastOpenFiles": [
-    "Security_Courses/Portswigger/Notes/SQLi.md",
+    "Security_Courses/Portswigger/Notes/SQLi/SQL Injection Cheat Sheet.html",
     "Security_Courses/HTB/BBH/Web Requests.md",
-    "Ink/Writing/2025.6.5 - 5.39am (2).writing",
-    "Ink/Writing/2025.6.5 - 5.39am.writing",
-    "Pasted image 20250605053750.png",
-    "Ink/Writing/2025.6.5 - 5.35am.writing",
-    "Pasted image 20250605053513.png",
-    "Ink/Writing/2025.6.5 - 5.32am.writing",
-    "Security_Courses/Portswigger/README.md",
-    "Security_Courses/HTB/README.md",
+    "Security_Courses/Portswigger/Notes/SQLi",
+    "Img/Pasted image 20250605053513.png",
     "Table of Contents.md",
-    "Ink/Writing/2025.6.5 - 5.09am.writing",
-    "Ink/Writing/2025.6.5 - 5.00am.writing",
-    "Ink/Writing/2025.6.5 - 4.53am.writing",
-    "Img",
+    "Img/Pasted image 20250605053750.png",
+    "Security_Courses/Portswigger/Notes/SQLi.md",
+    "README.md",
+    "Welcome.md",
+    "Security_Courses/Portswigger/README.md",
+    "Security_Courses/Portswigger/Notes",
+    "Security_Courses/HTB/README.md",
+    "Security_Courses/HTB/BBH",
+    "Security_Courses/Portswigger",
+    "Security_Courses/HTB",
+    "Security_Courses",
     "Img/Pasted image 20250605050903.png",
     "Img/Pasted image 20250605050013.png",
-    "Ink/Writing",
-    "Security_Courses/HTB/BBH",
-    "Security.md",
-    "Courses/Portswigger.md",
-    "Courses/Notes/SQLi.md",
-    "Notes.md"
+    "Img",
+    "Ink/Writing/2025.6.5 - 5.39am.writing",
+    "Ink/Writing/2025.6.5 - 5.39am (2).writing",
+    "Ink/Writing/2025.6.5 - 5.35am.writing"
   ]
 }
