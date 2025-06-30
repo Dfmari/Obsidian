@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security_Courses/Portswigger/README.md",
-                "mode": "preview",
+                "file": "Security_Courses/Portswigger/Notes/SQLi.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "SQLi"
             }
           }
         ]
@@ -171,25 +171,26 @@
   },
   "active": "c7cfbf98b11f92fc",
   "lastOpenFiles": [
-    "Security_Courses/Portswigger/Notes/SQLi.md",
+    "Img/select-syntax.gif",
+    "Ink/Writing/2025.7.1 - 2.50am.writing",
+    "Ink/Drawing/2025.7.1 - 2.49am.drawing",
+    "Ink/Drawing",
     "Security_Courses/HTB/BBH/Web Requests.md",
+    "Security_Courses/Portswigger/README.md",
+    "Security_Courses/Portswigger/Notes/SQLi.md",
     "Ink/Writing/2025.6.5 - 5.39am (2).writing",
     "Ink/Writing/2025.6.5 - 5.39am.writing",
     "Pasted image 20250605053750.png",
     "Ink/Writing/2025.6.5 - 5.35am.writing",
     "Pasted image 20250605053513.png",
     "Ink/Writing/2025.6.5 - 5.32am.writing",
-    "Security_Courses/Portswigger/README.md",
     "Security_Courses/HTB/README.md",
     "Table of Contents.md",
     "Ink/Writing/2025.6.5 - 5.09am.writing",
     "Ink/Writing/2025.6.5 - 5.00am.writing",
     "Ink/Writing/2025.6.5 - 4.53am.writing",
-    "Img",
     "Img/Pasted image 20250605050903.png",
     "Img/Pasted image 20250605050013.png",
-    "Ink/Writing",
-    "Security_Courses/HTB/BBH",
     "Security.md",
     "Courses/Portswigger.md",
     "Courses/Notes/SQLi.md",
